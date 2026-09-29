@@ -4,6 +4,17 @@
 
 **技术栈**：Vue 3 + TypeScript + Vite + Tailwind CSS ｜ Express + better-sqlite3 (SQLite) + JWT
 
+## 源项目
+
+本项目基于开源项目 **[eooce/eooce-blog](https://github.com/eooce/eooce-blog)** 二次开发。
+
+原作者仓库仅作学习与参考之用，版权与署名归原作者所有。本仓库在此基础上做了品牌标识
+（站点名称、作者信息、联系方式）的替换，以及若干个人化定制，不代表原作者的官方版本。
+
+原作者项目地址：https://github.com/eooce/eooce-blog
+
+若原作者仓库声明了开源许可证，请以该许可证的条款为准；本仓库的用途请遵循原作者的授权约定。
+
 ## 功能特性
 
 **前台**
